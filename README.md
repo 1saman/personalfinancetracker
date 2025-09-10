@@ -54,6 +54,3 @@ py personalfinancetracker.py
 py -m pip install --user pyinstaller
 py -m PyInstaller --noconfirm --onefile --windowed personalfinancetracker.py
 ```
-
-## Лицензия
-MIT

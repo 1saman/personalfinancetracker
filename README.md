@@ -32,6 +32,19 @@ py personalfinancetracker.py
 ```
 База данных создаётся автоматически в файле `finance_tracker.db`.
 
+## Скриншоты
+Добавьте свои изображения в `docs/screenshots/` и переименуйте их как указано ниже, либо скорректируйте пути.
+
+![Панель](docs/screenshots/dashboard.png)
+
+![Транзакции](docs/screenshots/transactions.png)
+
+![Бюджеты](docs/screenshots/budgets.png)
+
+![Цели](docs/screenshots/goals.png)
+
+![Отчёты](docs/screenshots/reports.png)
+
 ## Структура
 - `personalfinancetracker.py` — логика БД и GUI/CLI
 - `finance_tracker.db` — SQLite база данных (создаётся при первом запуске)

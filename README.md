@@ -33,7 +33,6 @@ py personalfinancetracker.py
 База данных создаётся автоматически в файле `finance_tracker.db`.
 
 ## Скриншоты
-Добавьте свои изображения в `docs/screenshots/` и переименуйте их как указано ниже, либо скорректируйте пути.
 
 ![Панель](docs/screenshots/dashboard.png)
 

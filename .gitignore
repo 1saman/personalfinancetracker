@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.db
+.env
+.venv
+*.sqlite
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.env.*
+build/
+dist/
+*.egg-info/
+Desktop.ini
